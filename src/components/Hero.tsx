@@ -9,14 +9,14 @@ export default function Hero() {
         <div className="flex flex-col md:flex-row items-center gap-12">
           <div className="flex-shrink-0">
             <div className="w-48 h-48 rounded-full bg-gradient-to-br from-blue-400 to-purple-600 p-1 shadow-2xl">
-              <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center text-3x2 font-bold">
+              <div className="w-full h-full rounded-full bg-slate-800 flex items-right justify-center text-3x2 font-bold">
                         FrontEnd
                     Software Engineer
               </div>
             </div>
           </div>
 
-          <div className="flex-1 text-center md:text-center">
+          <div className="flex-1 text-center md:text-left">
             <h1 className="text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
               Alomgir Hossen
             </h1>
